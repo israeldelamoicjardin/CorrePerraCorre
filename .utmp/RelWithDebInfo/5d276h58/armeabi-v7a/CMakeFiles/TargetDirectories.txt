@@ -1,0 +1,5 @@
+D:/proyectos/proyectos Unity/LineRunner/.utmp/RelWithDebInfo/5d276h58/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/proyectos/proyectos Unity/LineRunner/.utmp/RelWithDebInfo/5d276h58/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/proyectos/proyectos Unity/LineRunner/.utmp/RelWithDebInfo/5d276h58/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/proyectos/proyectos Unity/LineRunner/.utmp/RelWithDebInfo/5d276h58/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/proyectos/proyectos Unity/LineRunner/.utmp/RelWithDebInfo/5d276h58/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
