@@ -28,7 +28,9 @@ public class PlayerController : MonoBehaviour
        
     }
 
+    /// <summary>
     /// Update is called once per frame
+    /// </summary>
     void Update()
     {
         if (GameManager.Instance.gameStarted) // solo si ha empezado el juego
